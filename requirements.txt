@@ -1,0 +1,4 @@
+numpy>=1.21.0
+matplotlib>=3.4.0
+scikit-rf>=0.24.0
+prettytable>=3.0.0
